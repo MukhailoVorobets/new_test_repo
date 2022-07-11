@@ -1,7 +1,6 @@
 package JDBC_JAVA.JDBC_JAVA;
 
 import java.sql.SQLException;
-import java.util.Arrays;
 import java.util.List;
 
 import ua.lviv.lgs.dao.EmployeeDAO;
